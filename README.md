@@ -1,4 +1,4 @@
-# QSTN + Solana Network - work in progress
+# QSTN + Solana Network - work in progress 
 
 <p align="center">
   <a href="https://qstn.us/"><img src="https://qstn.us/icon-256x256.png" alt="QSTN Marketplace"></a>
